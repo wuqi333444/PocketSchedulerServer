@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ps_dao" />
+        <module name="ps_interface" />
+        <module name="ps_pojo" />
+        <module name="ps_service" />
+        <module name="ps_util" />
+        <module name="ps_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PocketSchedulerServer" target="1.7" />
+      <module name="ps_dao" target="1.7" />
+      <module name="ps_interface" target="1.5" />
+      <module name="ps_pojo" target="1.5" />
+      <module name="ps_service" target="1.7" />
+      <module name="ps_util" target="1.5" />
+      <module name="ps_web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

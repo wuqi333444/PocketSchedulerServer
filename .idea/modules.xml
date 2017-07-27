@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PocketSchedulerServer.iml" filepath="$PROJECT_DIR$/PocketSchedulerServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ps_dao/ps_dao.iml" filepath="$PROJECT_DIR$/ps_dao/ps_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ps_interface/ps_interface.iml" filepath="$PROJECT_DIR$/ps_interface/ps_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ps_pojo/ps_pojo.iml" filepath="$PROJECT_DIR$/ps_pojo/ps_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ps_service/ps_service.iml" filepath="$PROJECT_DIR$/ps_service/ps_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ps_util/ps_util.iml" filepath="$PROJECT_DIR$/ps_util/ps_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ps_web/ps_web.iml" filepath="$PROJECT_DIR$/ps_web/ps_web.iml" />
+    </modules>
+  </component>
+</project>
